@@ -9,7 +9,7 @@
         })
       }}
     </h3>
-    <button class="view-product-button">Pay by Credit Card</button>
+    <button class="view-product-button">Pay by Credit Cardd</button>
   </div>
 </template>
 
